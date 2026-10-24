@@ -15,9 +15,9 @@
 
 ### 🌐 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](linkedin.com/in/shreyashcv)
-- 🐙 GitHub: [Explore my repositories](github.com/shreyashjha1)
-- 📧 Email: shreyashjha943@gmail.com
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/shreyashcv/)
+- 🐙 GitHub: [Explore my repositories](https://github.com/Shreyashjha1)
+- 📧 Email: [shreyashjha943@gmail.com](mailto:shreyashjha943@gmail.com)
 
 ### 🛠️ Languages and Tools
 
@@ -37,7 +37,7 @@
 
 ⭐ *Always learning, always building, and always looking for opportunities to grow.*
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/shreyashcv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashjha943@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyashcv/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashjha943@gmail.com)
 
 <!-- Snake Game Repo View -->
 <div align="center">
